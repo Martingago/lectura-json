@@ -5,11 +5,11 @@
         "firstName": "Martin",
         "secondName": "Gago Chorén"   
     },
-    "Contacto": {
+    "contacto": {
         "telephone": "690 670 271",
         "email": "gagochorenmartin@gmail.com"
     },
-    "Estudios":{
+    "estudios":{
         "actually": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id sapiente quisquam quasi enim sed sunt, aperiam blanditiis veritatis quaerat eum."
     }
 }
