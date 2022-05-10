@@ -1,19 +1,21 @@
 {
-    "nombre": {
+    "perfil": {
         "firstName": "Martin",
-        "secondName": "Gago Chorén"
+        "secondName": "Gago Chorén",
+        "descripcion": "Frontend web developer",
+        "about": "Soy un programador Junnior con 1 año de experiencia en el sector de la programación FrontEnd. Mis conocimientos abarcan los lenguajes de HTML, CSS, JS, el uso de herramientas como Github y el framework de VUE"
+
     },
     "contacto": {
         "telephone": "690 670 271",
-        "email": "gagochorenmartin@gmail.com"
+        "email": "gagochorenmartin@gmail.com"  
     },
-    "descripcion": "Un pequeño despojo que esta intentando no cagarse encima haciendo el CV",
-    "sobremi": "Soy un programador Junnior con 1 año de experiencia en el sector de la programación FrontEnd. Mis conocimientos abarcan los lenguajes de HTML, CSS, JS, el uso de herramientas como Github y el framework de VUE",
-    "estudios": {
+    
+        "estudios": {
         "Actual": {
             "date": "2022",
             "lugar": "CERSIA Empresa",
-            "formacion": "Desarrollo de aplicaciones con tecnología web y Desarrollo de productos multimedia interactivos"
+            "formacion": "Curso en desarrollo de aplicaciones con tecnología web y Desarrollo de productos multimedia interactivos combinado con 1 año de experiencia laboral en el sector"
         },
         "reciente": {
             "date": "2018 - 2020",
@@ -22,8 +24,38 @@
         },
         "previo": {
             "date": "2016 - 2018",
-            "lugar":"IES Pontepedriña",
-            "formacion":"Técnico superior en Comercio Internacional"
+            "lugar": "IES Pontepedriña",
+            "formacion": "Técnico superior en Comercio Internacional"
+        },
+        "idioma": {
+            "primario": "Galego (CELGA 4)",
+            "secundario": "Inglés (Nivel básico)"
+        },
+        "aplicaciones": {
+            "tecnologia": "Conocimiento en HTML, CSS y JS"
+        }
+    },
+    "experiencia": {
+        "Actual": {
+            "date": "2021",
+            "lugar": "COMUSYS",
+            "formacion": "Contrato de formación durante 3 meses",
+            "responsabilidades": {
+                "tarea": "Desarrollo de webs mediante Wordpress y WooComerce",
+                "tarea2": "Elaboración de Banners",
+                "tarea3": "Optimización de imágenes para SEO web",
+                "tarea4": "Desarrollo de una campaña de marketing digital"
+            }
+        },
+        "reciente": {
+            "date": "2018",
+            "lugar": "ITMEN",
+            "formacion": "Contrato de formación durante 3 meses",
+            "responsabilidades": {
+                "tarea": "Creación de productos en Amazon y Facebook",
+                "tarea2": "Preparación de pedidos",
+                "tarea3": "Camapañas de email marketing utilizando herramientas como Mailchimp"
+            }
         }
     }
 }
