@@ -44,16 +44,16 @@
         "titulo": "Proyecto #6",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "imagen""https://picsum.photos/3",
-        "enlace""http://www.example.com/arithmet"
+        "imagen": "https://picsum.photos/3",
+        "enlace": "http://www.example.com/arithmet"
     },
     {
         "framework": "vanila",
         "titulo": "Proyecto #7",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "imagen""https://picsum.photos/3",
-        "enlace""http://www.example.com/boundary.as"
+        "imagen": "https://picsum.photos/3",
+        "enlace": "http://www.example.com/boundary.as"
     },
     {
         "framework": "vanila",
