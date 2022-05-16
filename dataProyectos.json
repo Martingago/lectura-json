@@ -20,16 +20,16 @@
         "titulo": "Proyecto #3",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "image"https://picsum.photos",
-        "enlac"http://example.com/birth/bait"
+        "image": "https://picsum.photos",
+        "enlac": "http://example.com/birth/bait"
     },
     {
         "framework": "vanila",
         "titulo": "Proyecto #4",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "image"https://picsum.photos",
-        "enlac"http://www.example.com/beds"
+        "image": "https://picsum.photos",
+        "enlac": "http://www.example.com/beds"
     },
     {
         "framework": "vanila",
