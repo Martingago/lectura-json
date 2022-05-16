@@ -20,7 +20,7 @@
         "titulo": "Proyecto #3",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "image": "https://picsum.photos",
+        "image": "https://picsum.photos/300",
         "enlac": "http://example.com/birth/bait"
     },
     {
@@ -28,7 +28,7 @@
         "titulo": "Proyecto #4",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "image": "https://picsum.photos",
+        "image": "https://picsum.photos/300",
         "enlac": "http://www.example.com/beds"
     },
     {
@@ -44,7 +44,7 @@
         "titulo": "Proyecto #6",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "imagen": "https://picsum.photos/3",
+        "imagen": "https://picsum.photos/300",
         "enlace": "http://www.example.com/arithmet"
     },
     {
@@ -52,7 +52,7 @@
         "titulo": "Proyecto #7",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "imagen": "https://picsum.photos/3",
+        "imagen": "https://picsum.photos/300",
         "enlace": "http://www.example.com/boundary.as"
     },
     {
