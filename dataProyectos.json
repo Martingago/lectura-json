@@ -36,8 +36,8 @@
         "titulo": "Proyecto #5",
         "miniDescripcion": "Este proyecto lo he realizado con mucho amor, espero lo valores tal y como se debe :D",
         "descripcion": "Este ha sido el primer proyecto que he desarrollado como Frontend Developer. Todo se ha realizado utilizando unicamente HTML, CSS, y JS",
-        "imagen": "\"https://picsum.photos/300\"",
-        "enlace": "\"https://brick.example.com/base?aftermath=birth&activity=attack\""
+        "imagen": "https://picsum.photos/300",
+        "enlace": "https://brick.example.com/base?aftermath=birth&activity=attack"
     },
     {
         "framework": "vue",
